@@ -2,21 +2,21 @@ const colors = require("../../src/styles/colors");
 
 module.exports = {
   homeTitle: "Personal blog",
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS",
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter",
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteTitle: "Hervé's PersonalBlog",
+  shortSiteTitle: "PersonalBlog",
+  siteDescription: "This is my personal blog.",
+  siteUrl: "https://www.hervehuneau.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "hervé huneau",
+  authorTwitterAccount: "hervehuneau",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "hervé huneau",
   infoTitleNote: "personal blog",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
+  manifestName: "Hervé's PersonalBlog",
   manifestShortName: "PersonalBlog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.bg,
@@ -24,8 +24,8 @@ module.exports = {
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/herveh44" },
+    { name: "twitter", url: "https://twitter.com/hervehuneau" },
+    { name: "facebook", url: "http://facebook.com/hervehuneau" }
   ]
 };
