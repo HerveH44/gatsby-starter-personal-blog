@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-personal-blog",
-  "description": "A Gatsby starter for a personal blog",
+  "name": "herve-huneau-personal-blog",
+  "description": "From a Gatsby starter",
   "author": "Greg Lobinski <greglobinski@gmail.com>",
-  "repository": "https://github.com/greglobinski/gatsby-starter-personal-blog",
+  "repository": "https://github.com/herveh44/personal-blog",
   "version": "1.0.1",
   "license": "MIT",
   "scripts": {
