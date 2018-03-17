@@ -2,9 +2,7 @@
 title: footnote
 ---
 
-* this is a demo site of the [gatsby-starter-personal-blog](https://github.com/greglobinski/gatsby-starter-personal-blog)
-* built by [greg lobinski](https://www.greglobinski.com)
+* built by Hervé Huneau
 * with [Gatsby](https://www.gatsbyjs.org/) & [React](https://reactjs.org)
-* source code on [GitHub](https://github.com/greglobinski/gatsby-starter-personal-blog)
-* delivered by [Netlify](https://www.netlify.com/)
+* source code on [GitHub](https://github.com/herveh44/personal-blog)
 * photos by [unsplash.com](https://unsplash.com)

@@ -1,29 +1,25 @@
 ---
 title: Welcome to my blog!
-subTitle: How interesting this new project is gonna be
+subTitle: 
 date: 2018-03-14
-cover: photo-1465070845512-2b2dbdc6df66-cover.jpg
+cover: welcome-cover.jpg
 category: start
 menuTitle: menuTitle
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+## Bienvenue sur mon blog
 
-![unsplash.com](./photo-1465070845512-2b2dbdc6df66.jpg)
+Voici déjà quelques années que le projet de blog me taraude. Bien plus, l'idée de trouver un chemin de rencontre entre la vie intérieure et la vie pratique, ou encore entre l'attrait pour l'écriture et les "nouvelles technologies", me revient par intermittence comme le flux et le reflux de la marée. 
 
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
+![unsplash.com](./welcome.jpg)
+## Pourquoi un blog?
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+Ce blog est une expérimentation avant tout technique: je souhaite expérimenter certaines technologies du web, avant tout [ReactJS](https://reactjs.org/) ainsi que le framework [Material-UI](http://www.material-ui.com/). Depuis six mois je travaille avec certains frameworks web, et je souhaite approfondir mes connaissances, et quoi de mieux pour cela que de regarder un beau projet utilisant ses deux technologies tout en les combinant à une approche qui m'était inconnue jusqu'à maintenant : les générateurs de contenu statique.
 
-```javascript
-var lang = /\blang(?:uage)?-(\w+)\b/i;
-var uniqueId = 0;
-```
+Ce magnifique site est une création de greg lobinsky et vous pouvez voir le code source originel [ici](https://github.com/greglobinski/gatsby-starter-personal-blog). Il utilise [GatsbyJS](https://www.gatsbyjs.org) pour générer automatiquement les éléments de la page ensemble, ce qui permet de générer des pages webs statiques avec un volume bien plus petit et optimisé pour le référencement web. Ce n'est pas mon intention première d'être référencé, mais je dois avouer que le code qui permet de faire tourner ce site m'étonne grandement, et que j'éprouve beaucoup de plaisir à aller y fouiner des idées. 
 
-Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+Je crois et j'espère que ce blog sera à la fois un lieu d'écriture mais également un lieu d'expérimentation: je souhaite y tester certains nouveaux éléments et pourquoi enrichir ces mécaniques de mes quelques lignes de code.
 
-### Donec hendrerit laoreet risus eget adipiscing.
+Vous remerciant par avance pour votre attention,
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.
-
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+A bientôt ;-)

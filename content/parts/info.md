@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.
+Happy French expatriate in Italy, I am a versatile and curious developer, eager to learn about new technologies, the world and myself.

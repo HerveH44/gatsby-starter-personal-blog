@@ -2,4 +2,4 @@
 title: copyright
 ---
 
-I am a wealthy man and the owner of a luxurious mansion where extravagant parties are often hosted
+Happy French expatriate in Italy, I am a versatile and curious developer, eager to learn about new technologies, the world and myself.
