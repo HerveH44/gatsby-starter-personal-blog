@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog!
-subTitle: 
+subTitle: Un nouveau départ
 date: 2018-03-14
 cover: welcome-cover.jpg
 category: start
